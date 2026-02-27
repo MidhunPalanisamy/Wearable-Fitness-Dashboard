@@ -325,9 +325,9 @@ lsof -ti:8080 | xargs kill -9
 
 ## Documentation
 
-- [README.md](README.md) - This file
-- [AUTHENTICATION_GUIDE.md](AUTHENTICATION_GUIDE.md) - Detailed auth docs
-- [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) - Original features
+- [README.md](README.md)
+- [AUTHENTICATION_GUIDE.md](AUTHENTICATION_GUIDE.md) 
+- [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) 
 
 ## License
 
